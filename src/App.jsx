@@ -5,13 +5,6 @@ function App() {
   return (
     <>
       <div className="container">
-        <div>
-          <Tasks
-            name="type the new task"
-            button="NEW TASK"
-            buttonTwo={"NEW TASK COMPLETE"}
-          />
-        </div>
         <div>teste</div>
         <div>"Marcos"</div>
         <div>testando 123</div>
@@ -21,10 +14,7 @@ function App() {
             button="COMPLETE ALL TASKS"
             buttonTwo="REMOVE ALL TASKS"
           />
-
-          <button>"Marcos"</button>
         </div>
-        <div>alterando para testar</div>
       </div>
     </>
   );
