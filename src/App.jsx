@@ -12,6 +12,7 @@ function App() {
             buttonTwo={"NEW TASK COMPLETE"}
           />
         </div>
+        <div>teste</div>
         <div>
           <Tasks
             name="type complete task"
