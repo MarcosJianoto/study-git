@@ -11,11 +11,10 @@ function App() {
         <div>
           <Tasks
             name="type complete task"
-            button="COMPLETE ALL TASKS"
-
-            
+            button="COMPLETE ALL TASKS"           
             buttonTwo="REMOVE ALL TASKS"
           />
+          <h1>teste</h1>
         </div>
       </div>
     </>
