@@ -12,6 +12,8 @@ function App() {
           <Tasks
             name="type complete task"
             button="COMPLETE ALL TASKS"
+
+            
             buttonTwo="REMOVE ALL TASKS"
           />
         </div>
@@ -19,5 +21,4 @@ function App() {
     </>
   );
 }
-
 export default App;
